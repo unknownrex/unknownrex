@@ -1,16 +1,14 @@
-## Hi there 👋
+# Wazzup👋
 
-<!--
-**unknownrex/unknownrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Kotlin and Jetpack Compose.  
+I enjoy building simple apps and growing my skills step by step.  
+Still learning, and still improving 🚀
 
-Here are some ideas to get you started:
+### 🔧 Tools & Tech I use
+- Kotlin
+- Android Studio
+- Jetpack Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Kotlin Multiplatform
+- Unit Testing
